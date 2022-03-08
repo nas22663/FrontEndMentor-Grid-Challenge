@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Site](./index.html)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://nas22663.github.io/FrontEndMentor-Grid-Challenge/)
 
 ## My process
 
